@@ -1,6 +1,5 @@
 ﻿using System;
 using Azure;
-using System;
 using System.Globalization;
 using Azure.AI.TextAnalytics;
 using System.Collections.Generic;
